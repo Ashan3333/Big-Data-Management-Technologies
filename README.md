@@ -119,7 +119,7 @@ Apache Zeppelin is a web-based notebook that enables interactive data analytics.
 
 ```start-all.sh```
 
-8.Verify Hadoop Installation: Verify the Hadoop installation by accessing the Hadoop web interface at http://localhost:50070/ or http://<namenode_hostname>:50070/ in your web browser.
+8.Verify Hadoop Installation: Verify the Hadoop installation by accessing the Hadoop web interface  at http://<namenode_hostname>:50070/ in your web browser.
 
 9. Create HDFS directories: Create HDFS directories by running the following command:
 
